@@ -9,7 +9,5 @@ dependencies:
 - scipy
 - statsmodels
 - pip
-
 - pip:
- - black
-
+  - causalgraphicalmodels
