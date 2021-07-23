@@ -1,9 +1,9 @@
 # OSE data science student project: Replication of Angrist et al. (2009)
 
+This repository contains my replication of the results of 
+> Angrist et al. (2009). “Incentives and Services For College Achievement: Evidence From  A Randomized Trial". *American Economic Journal: Applied Economics*, 1:1, 136–63.
 
-## Project overview
-
-Please ensure that a brief description of your project is included in the [README.md](https://github.com/HumanCapitalAnalysis/template-course-project/blob/master/README.md), which provides a proper citation of your baseline article. Also, please set up the following badges that allow to easily access your project notebook.
+For optimal results I recommend to clone the repository to your local machine and run the notebook on student_project environment. In order to do so our local machine ideally needs to have Anaconda Navigator. The following badges allow easy access to the project's notebook
 
 <a href="https://nbviewer.jupyter.org/github/OpenSourceEconomics/ose-data-science-course-project-baharcos/blob/master/replication_angrist2009.ipynb"
    target="_parent">
@@ -18,10 +18,12 @@ Please ensure that a brief description of your project is included in the [READM
        width="109" height="20">
 </a>
 
-## Reproducibility
+## Project overview
 
-To ensure full reproducibility of your project, please try to set up a [GitHub Actions CI](https://docs.github.com/en/actions) as your continuous integration service. An introductory tutorial for [conda](https://conda.io) and [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions) is provided [here](https://github.com/OpenSourceEconomics/ose-template-course-project/blob/master/tutorial_conda_actions.ipynb). While not at all mandatory, setting up a proper continuous integration workflow is an extra credit that can improve the final grade.
+Please ensure that a brief description of your project is included in the [README.md](https://github.com/HumanCapitalAnalysis/template-course-project/blob/master/README.md), which provides a proper citation of your baseline article. Also, please set up the following badges that allow to easily access your project notebook.
 
+
+##  Continuous Integration and Reproducibility
 
 ![Continuous Integration](https://github.com/OpenSourceEconomics/ose-data-science-course-project-baharcos/workflows/Continuous%20Integration/badge.svg)
 
